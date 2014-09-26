@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/197/YaoFramework/src/java/org/oursight/opensource/velocity
+END
+HelloWorld.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/197/YaoFramework/src/java/org/oursight/opensource/velocity/HelloWorld.java
+END
+velocity.properties
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/197/YaoFramework/src/java/org/oursight/opensource/velocity/velocity.properties
+END
+helloworld.vm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/197/YaoFramework/src/java/org/oursight/opensource/velocity/helloworld.vm
+END
+GenerateVelocityTempateFromString.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/201/YaoFramework/src/java/org/oursight/opensource/velocity/GenerateVelocityTempateFromString.java
+END
+VelocityTemplateFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/197/YaoFramework/src/java/org/oursight/opensource/velocity/VelocityTemplateFormatter.java
+END

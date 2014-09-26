@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/197/YaoFramework/classpath
+END
+.classpath.all
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/197/YaoFramework/classpath/.classpath.all
+END
+.classpath.all.minimum
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/197/YaoFramework/classpath/.classpath.all.minimum
+END
+.classpath.velocity
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/197/YaoFramework/classpath/.classpath.velocity
+END
+.classpath.httpunit.only
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/197/YaoFramework/classpath/.classpath.httpunit.only
+END

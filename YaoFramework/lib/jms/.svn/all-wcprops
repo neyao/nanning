@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/197/YaoFramework/lib/jms
+END
+activemq-web-5.6.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/197/YaoFramework/lib/jms/activemq-web-5.6.0.jar
+END
+activemq-core-5.6.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/197/YaoFramework/lib/jms/activemq-core-5.6.0.jar
+END
+jms-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/197/YaoFramework/lib/jms/jms-1.1.jar
+END
+activemq-all-5.6.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/197/YaoFramework/lib/jms/activemq-all-5.6.0.jar
+END
