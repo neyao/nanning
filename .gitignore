@@ -3,6 +3,6 @@
 .classpath
 target
 .DS_Store
-admin/src/main/profiles/development/META-INF/*.properties
 *.log
 *.class
+YaoFramework/WebRoot/WEB-INF/classes
